@@ -1,5 +1,5 @@
 # Set Custom Kernel Name
-CONFIG_LOCALVERSION="-BeyondStockᵀᴹ-Nexus9-v1.0.0"
+CONFIG_LOCALVERSION="-BeyondStockᵀᴹ-Nexus9-v1.1.0"
 # CONFIG_LOCALVERSION_AUTO is not set
 
 # Custom Toolchain
